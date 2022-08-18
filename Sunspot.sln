@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunspot.Core", "Sunspot.Core\Sunspot.Core.csproj", "{0B7CAE9A-F59B-4266-AD50-970236D17960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunspot.EFCore", "Sunspot.EFCore\Sunspot.EFCore.csproj", "{11FAD305-DEEA-4D06-8517-98D1EF6BACC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunspot.Dapper", "Sunspot.Dapper\Sunspot.Dapper.csproj", "{8349563E-388C-42A4-9354-7AE6EF907340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7CAE9A-F59B-4266-AD50-970236D17960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7CAE9A-F59B-4266-AD50-970236D17960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7CAE9A-F59B-4266-AD50-970236D17960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7CAE9A-F59B-4266-AD50-970236D17960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FAD305-DEEA-4D06-8517-98D1EF6BACC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FAD305-DEEA-4D06-8517-98D1EF6BACC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FAD305-DEEA-4D06-8517-98D1EF6BACC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FAD305-DEEA-4D06-8517-98D1EF6BACC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8349563E-388C-42A4-9354-7AE6EF907340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8349563E-388C-42A4-9354-7AE6EF907340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8349563E-388C-42A4-9354-7AE6EF907340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8349563E-388C-42A4-9354-7AE6EF907340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
