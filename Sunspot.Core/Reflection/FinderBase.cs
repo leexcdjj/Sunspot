@@ -1,4 +1,6 @@
-﻿namespace Sunspot.Core.Reflection;
+﻿using Sunspot.Core.Reflection.IFinder;
+
+namespace Sunspot.Core.Reflection;
 
 /// <summary>
 /// 查找器基类

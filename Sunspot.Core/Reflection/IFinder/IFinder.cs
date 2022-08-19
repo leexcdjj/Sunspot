@@ -1,4 +1,4 @@
-﻿namespace Sunspot.Core.Reflection;
+﻿namespace Sunspot.Core.Reflection.IFinder;
 
 /// <summary>
 /// 查找器接口
